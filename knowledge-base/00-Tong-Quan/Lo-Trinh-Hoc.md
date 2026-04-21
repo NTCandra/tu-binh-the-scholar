@@ -30,6 +30,8 @@ Hiểu khái niệm cơ bản trước khi học bất kỳ điều gì:
 - [ ] [[01-Nen-Tang/Thap-Thien-Can]] — 10 Thiên Can: thuộc tính
 - [ ] [[01-Nen-Tang/Thap-Nhi-Dia-Chi]] — 12 Địa Chi: thuộc tính và tàng can
 - [ ] [[01-Nen-Tang/Tang-Can]] — Tàng Can trong Địa Chi
+- [ ] [[01-Nen-Tang/Nguyet-Lenh]] — Nguyệt lệnh: khí chủ tháng, tư lệnh, 4 nhóm
+- [ ] [[01-Nen-Tang/Thien-Dia-Nhan-Tam-Tai]] — Tam Tài: khung ba tầng Thiên Địa Nhân
 - [ ] [[01-Nen-Tang/Lap-Menh-Co-Ban]] — Cách lập lá số
 
 **Thời gian ước tính:** 2-4 tuần
@@ -43,6 +45,8 @@ Hiểu công cụ phân tích mối quan hệ:
 - [ ] [[02-Thap-Than/Thap-Than-Tong-Quan]] — Tổng quan Thập Thần
 - [ ] [[02-Thap-Than/Tu-Cat-Than]] — Tứ Cát Thần: Quan Ấn Thực Tài
 - [ ] [[02-Thap-Than/Tu-Hung-Than]] — Tứ Hung Thần: Sát Kiêu Thương Kiếp
+- [ ] [[02-Thap-Than/Thap-Than-Ky-Hieu]] — Ký hiệu Thập Thần: nguyên thủy / cát / hung
+- [ ] [[01-Nen-Tang/Chan-Than-Hu-Than]] — Chân Thần & Hư Thần
 - [ ] [[03-Can-Chi-Bien-Hoa/Hop-Hinh-Xung-Pha-Hai]] — Hợp Hình Xung Phá Hại
 - [ ] [[01-Nen-Tang/Ngu-Hanh-Vuong-Suy]] — Vượng Suy theo tháng
 - [ ] [[01-Nen-Tang/Khong-Vong]] — Không Vong (空亡)
@@ -89,6 +93,8 @@ Phương pháp Địa Đạo — luận tầng lớp xã hội và danh lợi:
 
 - [ ] [[05-Cach-Cuc/Cach-Cuc-Tong-Quan]] — Tổng quan Cách Cục Pháp
 - [ ] [[05-Cach-Cuc/Cach-Cuc-Vuot-Tam-Quan]] — Ba cửa ải: Hộ Vệ, Thanh Thuần, Chân Giả
+- [ ] [[05-Cach-Cuc/PHAI-Tai-Quan-Phap]] — Tài Quan Pháp (Loan Đầu Pháp) bổ trợ
+- [ ] [[05-Cach-Cuc/Cach-Cuc-Tuong-Phap]] — Tượng Pháp: 16 điểm kiến thức
 
 ---
 
@@ -110,6 +116,7 @@ Luận mệnh tổng hợp:
 - [ ] [[08-Luan-Menh-Ung-Dung/Luan-Suc-Khoe]] — Luận sức khỏe, bệnh tật
 - [ ] [[08-Luan-Menh-Ung-Dung/Luan-Hon-Nhan]] — Luận hôn nhân
 - [ ] [[08-Luan-Menh-Ung-Dung/Luan-Phu-Quy]] — Luận phú quý bần tiện
+- [ ] [[08-Luan-Menh-Ung-Dung/Luan-Nghe-Nghiep]] — Luận nghề nghiệp theo Cách Cục
 
 ---
 
@@ -134,6 +141,7 @@ Thập Thần → Ngũ Hành → Âm Dương
 | Nguồn | Nội dung | Ghi chú |
 |-------|---------|---------|
 | [[10-Nguon-Sach/Thai-Cuc-Am-Duong-Hinh-Khi]] | No20 — Thái Cực Âm Dương Hình Khí | Sách chính, đầy đủ nhất |
+| [[10-Nguon-Sach/Tu-Binh-Cach-Cuc-De-Nhi-Ban]] | No6 — Cách Cục Đệ Nhị Bản | Chuyên sâu Cách Cục Pháp + Tài Quan Pháp |
 | Ghi chép lớp 2013 | No13 — Ghi chép lớp mệnh lý cao cấp | Cách Cục Pháp chi tiết |
 
 ## Lưu ý quan trọng

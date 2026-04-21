@@ -62,6 +62,53 @@ Lấy hai câu kinh điển làm nền tảng tư tưởng:
 - Thủ tượng từ từng Can Chi và Cung vị
 → [[06-Thai-Cuc-Phap/Hinh-Tuong-Phap]]
 
+## Hai phương pháp lớn thực chiến (theo No6)
+
+> [!info] Bổ sung từ [[10-Nguon-Sach/Tu-Binh-Cach-Cuc-De-Nhi-Ban|No6 — Cách Cục Đệ Nhị Bản]]
+
+Trong No6, Vương Khánh phân biệt rõ **hai "bảo pháp" thực chiến**:
+
+| Pháp | Vai trò | Tương đương phong thủy | Phạm vi |
+|------|--------|----------------------|---------|
+| **Cách Cục Pháp** | Xương cốt — định khung lớn | **Lý Khí Pháp** (khí vô hình) | Đại phú quý, tầng lớp |
+| **Tài Quan Pháp** | Da thịt — phân tầng chi tiết | **Loan Đầu Pháp** (hình thấy được) | Tiểu phú quý, việc bên trong |
+| **Trung Hòa Pháp** | Bổ sung — sức khỏe | — | Thọ yểu bệnh tật |
+
+### Nguyên tắc vàng: KHÔNG pha trộn
+> **"Luận Cách cục không luận Tài Quan, luận Tài Quan không luận Cách cục."**
+
+**Lý do:**
+- Cách Cục Pháp lấy **Nguyệt lệnh / chủ khí Trời Đất** làm trung tâm
+- Tài Quan Pháp lấy **Nhật chủ** làm trung tâm
+- Hai trung tâm khác nhau → pha trộn sẽ nhầm lẫn
+
+### Công thức luận mệnh hoàn chỉnh
+```
+Cách Cục Pháp   → Thiên Địa Đạo (khung lớn)
+         +
+Tài Quan Pháp  → Nhân Đạo (tầng chi tiết)
+         +
+Trung Hòa Pháp → Sức khỏe, thọ yểu
+```
+
+→ [[05-Cach-Cuc/PHAI-Tai-Quan-Phap]]
+→ [[05-Cach-Cuc/Cach-Cuc-Tuong-Phap]]
+
+## Phê phán "Nhật chủ trung tâm"
+
+No6 có chương chỉ ra **sự lạc lối của thuyết Nhật chủ = vua**:
+- Trích Khổng Tử: *"vô ý vô tất vô cố vô ngã"* (không ý ta, không cần phải, không cố chấp, không cái ta)
+- Nhật chủ chỉ là **người tham gia** vào quá trình Âm Dương — không phải trung tâm
+- Phú quý **không đến từ sự cân bằng Nhật chủ**, mà từ **Âm Dương Nguyệt lệnh**
+
+## Tòng Cách — định nghĩa lại
+
+**Thám Tác Môn định nghĩa Tòng Cách:**
+- Một khí **độc vượng** + thần độc vượng là **Chân Thần** hoặc được Chân Thần sinh
+- Khác với phái Bình Hành (chỉ nhìn Thân nhược theo khí)
+
+→ [[01-Nen-Tang/Chan-Than-Hu-Than]]
+
 ## Hệ thống Hình Khí
 
 > [!note] Khái niệm then chốt
