@@ -15,6 +15,7 @@ related:
   - "[[01-Nen-Tang/Ngu-Hanh-Vuong-Suy]]"
 sources:
   - "[[10-Nguon-Sach/Thai-Cuc-Am-Duong-Hinh-Khi]]"
+  - "[[10-Nguon-Sach/Ghi-Chep-Lop-Menh-Ly-2013]]"
 chinese: "五行"
 created: 2026-04-21
 ---
@@ -105,6 +106,27 @@ Bốn mùa xuân hạ thu đông tác động lên thổ nhưỡng trái đất 
 > - **Ngũ Hành** = thuộc tính **tự nhiên bẩm sinh** (bản chất, sức khỏe, thọ yểu) — tiên thiên
 > - **Thập Thần** = thuộc tính **xã hội hậu thiên** (mối quan hệ, địa vị, danh lợi) — hậu thiên
 
+### III-bis. Tiên thiên một nhà, Hậu thiên một nhà (từ No13)
+
+> [!info] Bổ sung từ [[10-Nguon-Sach/Ghi-Chep-Lop-Menh-Ly-2013|No13]]
+
+**Tiên thiên một nhà** (bẩm sinh gắn bó):
+- **Mộc Hỏa = một nhà** (Trời / Dương) — Mộc sinh Hỏa, cùng hướng lên, tinh thần
+- **Kim Thủy = một nhà** (Đất / Âm) — Kim sinh Thủy, cùng hướng xuống, vật chất
+- **Thổ** đứng giữa, không thuộc nhà nào
+
+**Hậu thiên một nhà** (quan hệ sinh phát sinh sau):
+- **Hỏa Thổ** — Hỏa sinh Thổ
+- **Thổ Kim** — Thổ sinh Kim
+- **Thủy Mộc** — Thủy sinh Mộc
+
+**Ứng dụng:**
+- Tổ hợp Mộc Hỏa / Kim Thủy ở Niên Nguyệt → gia đình êm ấm, truyền thống
+- Tổ hợp Thủy Hỏa / Kim Mộc **chinh chiến** → mâu thuẫn nội tại, sức khỏe kém
+- Thổ ở trung tâm, gặp Hỏa biến thành Mậu Thổ, gặp Thủy biến thành Kỷ Thổ
+
+→ [[01-Nen-Tang/Thuy-Hoa-Kim-Moc-Lanh-Dao-Tro-Thu]] — Framework lãnh đạo/trợ thủ
+
 ### IV. Ngũ Hành và phú quý bần tiện
 
 > [!example] 🔬 Theo Thám Tác Môn
@@ -131,3 +153,5 @@ Bốn mùa xuân hạ thu đông tác động lên thổ nhưỡng trái đất 
 
 ### Liên quan
 - [[01-Nen-Tang/Hinh-Khi]] — Hình Khí của từng hành
+- [[01-Nen-Tang/Ngu-Hanh-Chu-Dao]] — Hành chi phối toàn cục
+- [[01-Nen-Tang/Thuy-Hoa-Kim-Moc-Lanh-Dao-Tro-Thu]] — Vai trò lãnh đạo/trợ thủ
