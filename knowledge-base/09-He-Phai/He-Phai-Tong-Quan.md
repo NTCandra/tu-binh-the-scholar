@@ -14,6 +14,7 @@ related:
   - "[[09-He-Phai/Tham-Tac-Mon]]"
 sources:
   - "[[10-Nguon-Sach/Thai-Cuc-Am-Duong-Hinh-Khi]]"
+  - "[[10-Nguon-Sach/Ghi-Chep-Lop-Menh-Ly-2013]]"
 chinese: "派别"
 created: 2026-04-21
 ---
@@ -23,6 +24,22 @@ created: 2026-04-21
 ## Tóm tắt
 > [!summary] 1 câu
 > Tử Bình có nhiều hệ phái với phương pháp luận mệnh khác nhau — điểm phân kỳ lớn nhất là **cách xác định Dụng Thần** và **trình tự xem lá số**; người học cần biết rõ mình đang học theo phái nào để không bị lẫn lộn.
+
+## Lịch sử 5 hệ phái Tử Bình hiện đại (1990s-2000s)
+
+> [!info] Nguồn: [[10-Nguon-Sach/Ghi-Chep-Lop-Menh-Ly-2013|No13]] — Vương Khánh giảng năm 2013
+
+Theo Vương Khánh, giai đoạn phát triển Tử Bình hiện đại tại Trung Quốc có 5 hệ phái lớn xuất hiện theo thứ tự thời gian:
+
+| # | Hệ phái | Người sáng lập | Năm | Đóng góp chính |
+|---|---------|---------------|-----|---------------|
+| 1 | **Phái Tổng Hợp Truyền Thống** | Thiệu Vĩ Hoa (邵伟华) | Đầu 1990s | Khởi động phong trào mệnh lý hiện đại; tổng hợp nhiều nguồn |
+| 2 | **Phái Đại Pháp Sinh Khắc** | Lý Hồng Thành (李洪成) | ~1998 | Hệ thống hóa sinh khắc Ngũ Hành thành "đại pháp" |
+| 3 | **Mệnh Lý Tân Phái** | Lý Hàm Thần (李涵辰) | ~2002 | Kỹ thuật tính cường độ Can Chi; phân tích lực lượng |
+| 4 | **Mệnh Lý Manh Phái** | Đoạn Kiến Nghiệp (段建业) | ~2000 | Kỹ pháp thầy mù đặc thù; thủ tượng sự việc |
+| 5 | **Phái Cách Cục Truyền Thống** | Từ Vĩ Cương (徐伟刚) + Hoàng Đại Lục (黄大陆) | ~2004 | Phục hồi Tử Bình Chân Thuyên cổ điển |
+
+**Thám Tác Môn** (Vương Khánh) ra đời **sau** 5 phái trên — không nằm trong danh sách này — vì Vương Khánh lập Thám Tác Môn như **phản biện** lại thuyết Thân vượng/nhược phổ biến của phái Bình Hành.
 
 ## Các hệ phái chính
 

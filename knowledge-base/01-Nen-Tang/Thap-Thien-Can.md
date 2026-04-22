@@ -13,8 +13,10 @@ related:
   - "[[01-Nen-Tang/Am-Duong]]"
   - "[[01-Nen-Tang/Hinh-Khi]]"
   - "[[02-Thap-Than/Thap-Than-Tong-Quan]]"
+  - "[[02-Thap-Than/Thap-Can-Luan-Menh]]"
 sources:
   - "[[10-Nguon-Sach/Thai-Cuc-Am-Duong-Hinh-Khi]]"
+  - "[[10-Nguon-Sach/Ghi-Chep-Lop-Menh-Ly-2013]]"
 chinese: "十天干"
 created: 2026-04-21
 ---
@@ -128,6 +130,29 @@ created: 2026-04-21
 - **Tính cách**: thông minh, linh cảm, thần bí, ẩn dật
 - **Hình Khí**: Hình — "trong veo", tinh tế, ẩn tàng
 
+### III-bis. Ngũ đức và đặc trưng vận động (từ No13)
+
+> [!info] Bổ sung từ [[10-Nguon-Sach/Ghi-Chep-Lop-Menh-Ly-2013|No13]]
+
+Mỗi Ngũ Hành có **một đức** trong Ngũ Thường và **một cách vận động đặc trưng**:
+
+| Ngũ Hành | Đức | Đặc trưng vận động | Dương Can (Khí) | Âm Can (Hình) |
+|---------|-----|-------------------|----------------|---------------|
+| **Mộc** | **Nhân** (仁) | **Khúc Trực** (曲直 — cong/thẳng) | Giáp = Trực | Ất = Khúc |
+| **Hỏa** | **Lễ** (礼) | **Viêm Thượng** (炎上 — cháy lên) | Bính = Thượng | Đinh = Viêm |
+| **Thổ** | **Tín** (信) | **Giá Sắc** (稼穑 — trồng/gặt) | Mậu = Giá | Kỷ = Sắc |
+| **Kim** | **Nghĩa** (义) | **Tòng Cách** (从革 — thuận/cải) | Canh = Cách | Tân = Tòng |
+| **Thủy** | **Trí** (智) | **Nhuận Hạ** (润下 — thấm/chảy xuống) | Nhâm = Hạ | Quý = Nhuận |
+
+**Ứng dụng:**
+- Mệnh Mộc vượng được dụng → tính **nhân từ** mạnh
+- Mệnh Hỏa vượng được dụng → giữ **lễ nghĩa**, quan chức
+- Mệnh Thổ vượng được dụng → trọng **chữ tín**
+- Mệnh Kim vượng được dụng → trọng **nghĩa khí**, pháp luật
+- Mệnh Thủy vượng được dụng → thông **trí tuệ** sâu
+
+→ [[02-Thap-Than/Thap-Can-Luan-Menh]] — chi tiết 10 Can với nghề nghiệp
+
 ### IV. Dương Can và Âm Can — So sánh
 
 | Tiêu chí | Dương Can (Khí) | Âm Can (Hình) |
@@ -174,3 +199,5 @@ Giáp → Mậu, Ất → Kỷ, Bính → Canh, Đinh → Tân, Mậu → Nhâm,
 ### Liên quan
 - [[01-Nen-Tang/Hinh-Khi]] — Dương Can = Khí, Âm Can = Hình
 - [[01-Nen-Tang/Tang-Can]] — Can tàng trong Địa Chi
+- [[02-Thap-Than/Thap-Can-Luan-Menh]] — Luận nghề theo 10 Nhật Can
+- [[01-Nen-Tang/Thuy-Hoa-Kim-Moc-Lanh-Dao-Tro-Thu]] — Vai trò lãnh đạo/trợ thủ của Can

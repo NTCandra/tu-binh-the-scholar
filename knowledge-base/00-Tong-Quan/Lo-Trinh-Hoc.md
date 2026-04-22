@@ -32,6 +32,8 @@ Hiểu khái niệm cơ bản trước khi học bất kỳ điều gì:
 - [ ] [[01-Nen-Tang/Tang-Can]] — Tàng Can trong Địa Chi
 - [ ] [[01-Nen-Tang/Nguyet-Lenh]] — Nguyệt lệnh: khí chủ tháng, tư lệnh, 4 nhóm
 - [ ] [[01-Nen-Tang/Thien-Dia-Nhan-Tam-Tai]] — Tam Tài: khung ba tầng Thiên Địa Nhân
+- [ ] [[01-Nen-Tang/Thuy-Hoa-Kim-Moc-Lanh-Dao-Tro-Thu]] — Thủy Hỏa lãnh đạo, Kim Mộc trợ thủ
+- [ ] [[01-Nen-Tang/Ngu-Hanh-Chu-Dao]] — Ngũ Hành Chủ Đạo
 - [ ] [[01-Nen-Tang/Lap-Menh-Co-Ban]] — Cách lập lá số
 
 **Thời gian ước tính:** 2-4 tuần
@@ -48,6 +50,8 @@ Hiểu công cụ phân tích mối quan hệ:
 - [ ] [[02-Thap-Than/Thap-Than-Ky-Hieu]] — Ký hiệu Thập Thần: nguyên thủy / cát / hung
 - [ ] [[01-Nen-Tang/Chan-Than-Hu-Than]] — Chân Thần & Hư Thần
 - [ ] [[03-Can-Chi-Bien-Hoa/Hop-Hinh-Xung-Pha-Hai]] — Hợp Hình Xung Phá Hại
+- [ ] [[03-Can-Chi-Bien-Hoa/To-Hop-Bat-Tu]] — Tổ hợp là gốc của luận mệnh
+- [ ] [[02-Thap-Than/Thap-Can-Luan-Menh]] — Thập Can Luận Mệnh (10 loại người)
 - [ ] [[01-Nen-Tang/Ngu-Hanh-Vuong-Suy]] — Vượng Suy theo tháng
 - [ ] [[01-Nen-Tang/Khong-Vong]] — Không Vong (空亡)
 
@@ -142,7 +146,7 @@ Thập Thần → Ngũ Hành → Âm Dương
 |-------|---------|---------|
 | [[10-Nguon-Sach/Thai-Cuc-Am-Duong-Hinh-Khi]] | No20 — Thái Cực Âm Dương Hình Khí | Sách chính, đầy đủ nhất |
 | [[10-Nguon-Sach/Tu-Binh-Cach-Cuc-De-Nhi-Ban]] | No6 — Cách Cục Đệ Nhị Bản | Chuyên sâu Cách Cục Pháp + Tài Quan Pháp |
-| Ghi chép lớp 2013 | No13 — Ghi chép lớp mệnh lý cao cấp | Cách Cục Pháp chi tiết |
+| [[10-Nguon-Sach/Ghi-Chep-Lop-Menh-Ly-2013]] | No13 — Ghi chép lớp mệnh lý cao cấp 2013 | Ngũ Hành Chủ Đạo, Thập Can, 5 hệ phái lịch sử, ví dụ thực chiến |
 
 ## Lưu ý quan trọng
 
