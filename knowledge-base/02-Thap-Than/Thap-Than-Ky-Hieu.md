@@ -16,6 +16,7 @@ related:
   - "[[05-Cach-Cuc/Cach-Cuc-Tuong-Phap]]"
 sources:
   - "[[10-Nguon-Sach/Tu-Binh-Cach-Cuc-De-Nhi-Ban]]"
+  - "[[10-Nguon-Sach/Con-Duong-Nha-Du-Doan-Hien-Dai]]"
 chinese: "十神符号"
 created: 2026-04-21
 ---
@@ -192,6 +193,50 @@ Phân tích theo mối quan hệ xã hội:
 **Phân chia theo trung tâm:**
 - **Ấn Tỷ + Thực Thương** = bên trong, bản thân
 - **Tài + Quan Sát** = bên ngoài, người khác
+
+### VII-bis. Hai tầng ý nghĩa — Tinh thần và Phi tinh thần (từ No14)
+
+> [!info] Bổ sung từ [[10-Nguon-Sach/Con-Duong-Nha-Du-Doan-Hien-Dai|No14]] Chương 9
+
+Vương Khánh (No14, 2000) phân tích mỗi Thập Thần thành **2 tầng ý nghĩa**:
+
+#### Tầng 1 — Ý nghĩa tinh thần (精神含义)
+- **Tâm thái biểu hiện** — tâm lý, tư duy
+- Đặc điểm nhân sinh quan, tính cách
+- Cảm xúc, động cơ, ham muốn
+- Mối quan hệ tâm lý với thế giới
+
+#### Tầng 2 — Ý nghĩa phi tinh thần (非精神含义)
+- **Nghề nghiệp** cụ thể
+- **Lục thân** (cha, mẹ, vợ, chồng, con)
+- **Sự việc** cụ thể (quan tai, bệnh tật, tài lộc)
+- Người, việc, vật thể đại diện
+
+#### Bảng tổng hợp (trích)
+
+| Thập Thần | Tinh thần (tâm lý) | Phi tinh thần (sự việc) |
+|-----------|-------------------|------------------------|
+| **Chính Quan** | Phục tùng, tuân thủ pháp luật, tự ép buộc | Học vị, chức vụ, chồng (nữ), con cái |
+| **Thất Sát** | Bài xích mệnh lệnh, chuyên chế, khí phách | Tiểu nhân, bệnh nặng, quan tai, tướng võ |
+| **Chính Tài** | Coi trọng giác quan, thực tế, công lợi | Vợ (nam), tài sản ổn định, thu nhập chính |
+| **Thiên Tài** | Kiểm soát nhưng không chấp trước | Cha, tiền tình cờ, người yêu, tài sản lưu động |
+| **Thương Quan** | Phóng ra bên ngoài, say mê biểu hiện | Nghệ thuật, sáng tạo, con (nam), tài năng |
+| **Thực Thần** | Tham gia không so đo, bình đạm | Phúc thọ, tài hoa, con (nữ), nghệ thuật thư giãn |
+| **Chính Ấn** | Cống hiến, yêu thương, không công danh | Mẹ, học vấn, chỗ dựa, nhà cửa |
+| **Thiên Ấn (Kiêu)** | Cô độc, bình an có oán trách | Mẹ kế, nghề đặc biệt (y, luật, tôn giáo) |
+| **Tỷ Kiên** | Cương kiện không thô, giàu năng lực xử thế | Anh em, bạn bè, cơ bắp, xương cốt |
+| **Kiếp Tài** | Nghĩ là làm, bốc đồng, táo bạo | Anh em, cạnh tranh, mạo hiểm, đánh nhau |
+
+#### Ứng dụng
+
+**Khi luận mệnh:**
+- Xét **Tầng 1** → đoán **tính cách, tâm lý, động cơ** của Nhật chủ
+- Xét **Tầng 2** → đoán **sự việc cụ thể, lục thân, nghề nghiệp**
+- Kết hợp cả hai → luận mệnh toàn diện
+
+**Ví dụ Thất Sát vượng áp sát:**
+- **Tâm lý:** Nhật chủ có dã tâm, không phục, chuyên chế, khí phách lớn
+- **Sự việc:** dễ vào quân đội/công an, hoặc gặp tiểu nhân, bệnh nặng, quan tai
 
 ### VIII. Ứng dụng trong luận mệnh
 

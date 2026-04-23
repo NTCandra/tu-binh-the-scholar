@@ -34,6 +34,8 @@ Hiểu khái niệm cơ bản trước khi học bất kỳ điều gì:
 - [ ] [[01-Nen-Tang/Thien-Dia-Nhan-Tam-Tai]] — Tam Tài: khung ba tầng Thiên Địa Nhân
 - [ ] [[01-Nen-Tang/Thuy-Hoa-Kim-Moc-Lanh-Dao-Tro-Thu]] — Thủy Hỏa lãnh đạo, Kim Mộc trợ thủ
 - [ ] [[01-Nen-Tang/Ngu-Hanh-Chu-Dao]] — Ngũ Hành Chủ Đạo
+- [ ] [[01-Nen-Tang/Khi-Co]] — Khí Cơ: sức sống của Thập Thần
+- [ ] [[01-Nen-Tang/To-Chat-Bam-Sinh]] — Tố Chất Bẩm Sinh (70-80% mệnh định)
 - [ ] [[01-Nen-Tang/Lap-Menh-Co-Ban]] — Cách lập lá số
 
 **Thời gian ước tính:** 2-4 tuần
@@ -51,6 +53,8 @@ Hiểu công cụ phân tích mối quan hệ:
 - [ ] [[01-Nen-Tang/Chan-Than-Hu-Than]] — Chân Thần & Hư Thần
 - [ ] [[03-Can-Chi-Bien-Hoa/Hop-Hinh-Xung-Pha-Hai]] — Hợp Hình Xung Phá Hại
 - [ ] [[03-Can-Chi-Bien-Hoa/To-Hop-Bat-Tu]] — Tổ hợp là gốc của luận mệnh
+- [ ] [[03-Can-Chi-Bien-Hoa/Quyen-Sinh-Khac]] — Quyền Sinh Khắc 4 cấp độ
+- [ ] [[02-Thap-Than/Thuong-Quan-Kien-Quan]] — Thương Quan Kiến Quan có/không tai họa
 - [ ] [[02-Thap-Than/Thap-Can-Luan-Menh]] — Thập Can Luận Mệnh (10 loại người)
 - [ ] [[01-Nen-Tang/Ngu-Hanh-Vuong-Suy]] — Vượng Suy theo tháng
 - [ ] [[01-Nen-Tang/Khong-Vong]] — Không Vong (空亡)
@@ -99,6 +103,7 @@ Phương pháp Địa Đạo — luận tầng lớp xã hội và danh lợi:
 - [ ] [[05-Cach-Cuc/Cach-Cuc-Vuot-Tam-Quan]] — Ba cửa ải: Hộ Vệ, Thanh Thuần, Chân Giả
 - [ ] [[05-Cach-Cuc/PHAI-Tai-Quan-Phap]] — Tài Quan Pháp (Loan Đầu Pháp) bổ trợ
 - [ ] [[05-Cach-Cuc/Cach-Cuc-Tuong-Phap]] — Tượng Pháp: 16 điểm kiến thức
+- [ ] [[05-Cach-Cuc/Cach-Cuc-Dac-Biet]] — Cách Cục Đặc Biệt (Chuyên Vượng, Tòng, Hóa Khí)
 
 ---
 
@@ -121,6 +126,14 @@ Luận mệnh tổng hợp:
 - [ ] [[08-Luan-Menh-Ung-Dung/Luan-Hon-Nhan]] — Luận hôn nhân
 - [ ] [[08-Luan-Menh-Ung-Dung/Luan-Phu-Quy]] — Luận phú quý bần tiện
 - [ ] [[08-Luan-Menh-Ung-Dung/Luan-Nghe-Nghiep]] — Luận nghề nghiệp theo Cách Cục
+
+---
+
+## Tầng 9 — Tu Hành (Tùy chọn)
+
+Đặc sản No14 — không bắt buộc nhưng thú vị:
+
+- [ ] [[11-Tam-Linh-Tu-Hanh/Tam-Y-Cong]] — Tâm Ý Công: tu tập ý niệm + khí công để thay đổi vận mệnh
 
 ---
 
@@ -147,6 +160,7 @@ Thập Thần → Ngũ Hành → Âm Dương
 | [[10-Nguon-Sach/Thai-Cuc-Am-Duong-Hinh-Khi]] | No20 — Thái Cực Âm Dương Hình Khí | Sách chính, đầy đủ nhất |
 | [[10-Nguon-Sach/Tu-Binh-Cach-Cuc-De-Nhi-Ban]] | No6 — Cách Cục Đệ Nhị Bản | Chuyên sâu Cách Cục Pháp + Tài Quan Pháp |
 | [[10-Nguon-Sach/Ghi-Chep-Lop-Menh-Ly-2013]] | No13 — Ghi chép lớp mệnh lý cao cấp 2013 | Ngũ Hành Chủ Đạo, Thập Can, 5 hệ phái lịch sử, ví dụ thực chiến |
+| [[10-Nguon-Sach/Con-Duong-Nha-Du-Doan-Hien-Dai]] | No14 — Con Đường Nhà Dự Đoán Hiện Đại (Tinh Khí Thần) | Khí Cơ, Tố Chất Bẩm Sinh, Quyền Sinh Khắc 4 cấp, Tâm Ý Công |
 
 ## Lưu ý quan trọng
 

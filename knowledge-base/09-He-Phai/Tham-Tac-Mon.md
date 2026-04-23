@@ -159,11 +159,11 @@ No6 có chương chỉ ra **sự lạc lối của thuyết Nhật chủ = vua**
 - Một số quan điểm **gây tranh cãi** trong giới mệnh lý: bác bỏ Thân vượng/nhược, không dùng Phù Ức
 
 ## Sách nguồn (đã có trong repo)
-- [[10-Nguon-Sach/Thai-Cuc-Am-Duong-Hinh-Khi]] — Tác phẩm chủ lực, đầy đủ nhất
-- No6: Tử Bình Cách Cục Đệ Nhị Bản — Chuyên sâu về Cách Cục
-- No7: Tân Luận Mệnh Lý Bát Tự — Giai đoạn đầu, gần Phái Đại Pháp Sinh Khắc hơn
-- No13: Ghi chép lớp Mệnh lý 2013 — Tổng kết & so sánh các phái
-- No14: Con Đường Nhà Dự Đoán Hiện Đại — Thực chiến + Tâm ý công
+- [[10-Nguon-Sach/Thai-Cuc-Am-Duong-Hinh-Khi]] — No20 — Tác phẩm chủ lực, đầy đủ nhất
+- [[10-Nguon-Sach/Tu-Binh-Cach-Cuc-De-Nhi-Ban]] — No6 — Chuyên sâu về Cách Cục (giai đoạn chuyển tiếp)
+- [[10-Nguon-Sach/Ghi-Chep-Lop-Menh-Ly-2013]] — No13 — Ghi chép lớp 2013 (Ngũ Hành Chủ Đạo, 5 hệ phái)
+- [[10-Nguon-Sach/Con-Duong-Nha-Du-Doan-Hien-Dai]] — No14 — Tinh Khí Thần (2000, giai đoạn sớm, còn dùng Thân vượng/nhược; chứa chương độc đáo Tâm Ý Công)
+- No7: Tân Luận Mệnh Lý Bát Tự — Giai đoạn đầu nhất, gần Phái Đại Pháp Sinh Khắc hơn
 
 ## Liên kết
 - [[06-Thai-Cuc-Phap/Thai-Cuc-La-Gi]] — Thái Cực là gì

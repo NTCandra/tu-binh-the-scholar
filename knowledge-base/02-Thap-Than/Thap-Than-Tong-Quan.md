@@ -15,6 +15,7 @@ related:
   - "[[05-Cach-Cuc/Cach-Cuc-Tong-Quan]]"
 sources:
   - "[[10-Nguon-Sach/Thai-Cuc-Am-Duong-Hinh-Khi]]"
+  - "[[10-Nguon-Sach/Con-Duong-Nha-Du-Doan-Hien-Dai]]"
 chinese: "十神"
 created: 2026-04-21
 ---
