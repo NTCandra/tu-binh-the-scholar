@@ -158,12 +158,31 @@ No6 có chương chỉ ra **sự lạc lối của thuyết Nhật chủ = vua**
 - **Lập Thể và Thủ Dụng** trong Thái Cực Pháp khó nắm nếu không có nền tảng
 - Một số quan điểm **gây tranh cãi** trong giới mệnh lý: bác bỏ Thân vượng/nhược, không dùng Phù Ức
 
+## Hệ thống Tứ Đại Pháp (No15 — 2014)
+
+> [!note] Bổ sung từ No15
+> No15 hệ thống hóa tường minh 4 pháp luận mệnh của Thám Tác Môn:
+
+| Cặp | Pháp | Điểm nhập | Vai trò | Phạm vi |
+|-----|------|-----------|---------|---------|
+| **Thập Thần** | Cách Cục Pháp | Thập Thần | Chủ đạo | Thân Ngoại Sự |
+| | Tài Quan Pháp | Thập Thần | Phụ trợ | Thân Ngoại Sự |
+| **Ngũ Hành** | Âm Dương Kỹ Pháp | Ngũ Hành | Chủ đạo | Thân Nội Sự |
+| | Tự Chạm Tự Pháp | Ngũ Hành | Phụ trợ | Thân Nội Sự |
+
+Đây là sự hệ thống hóa đầy đủ nhất của Vương Khánh — rõ ràng hơn cách trình bày trong No20 và No6.
+
+→ [[01-Nen-Tang/Than-Noi-Than-Ngoai]] — khung phân loại Thân Nội/Ngoại  
+→ [[06-Thai-Cuc-Phap/Tu-Cham-Tu-Phap]] — Pháp thứ 4 (Tự Chạm Tự)  
+→ [[01-Nen-Tang/Nhi-Bat-Dinh-Luat]] — tiêu chí cân bằng thay thế Vượng Suy  
+
 ## Sách nguồn (đã có trong repo)
-- [[10-Nguon-Sach/Thai-Cuc-Am-Duong-Hinh-Khi]] — Tác phẩm chủ lực, đầy đủ nhất
-- No6: Tử Bình Cách Cục Đệ Nhị Bản — Chuyên sâu về Cách Cục
+- [[10-Nguon-Sach/Thai-Cuc-Am-Duong-Hinh-Khi]] — No20, tác phẩm chủ lực, đầy đủ nhất
+- [[10-Nguon-Sach/Ghi-Chep-Lop-Nang-Cao-Am-Duong-Hinh-Khi-2014]] — No15, bản giảng dạy 2014 (cùng giai đoạn No20, nhiều ví dụ hơn)
+- No6: Tử Bình Cách Cục Đệ Nhị Bản — Chuyên sâu về Cách Cục (giai đoạn chuyển tiếp)
 - No7: Tân Luận Mệnh Lý Bát Tự — Giai đoạn đầu, gần Phái Đại Pháp Sinh Khắc hơn
 - No13: Ghi chép lớp Mệnh lý 2013 — Tổng kết & so sánh các phái
-- No14: Con Đường Nhà Dự Đoán Hiện Đại — Thực chiến + Tâm ý công
+- No14: Con Đường Nhà Dự Đoán Hiện Đại — Thực chiến + Tâm ý công (giai đoạn 2000)
 
 ## Liên kết
 - [[06-Thai-Cuc-Phap/Thai-Cuc-La-Gi]] — Thái Cực là gì
