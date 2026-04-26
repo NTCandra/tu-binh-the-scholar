@@ -15,6 +15,7 @@ related:
   - "[[05-Cach-Cuc/Cach-Cuc-Tong-Quan]]"
 sources:
   - "[[10-Nguon-Sach/Thai-Cuc-Am-Duong-Hinh-Khi]]"
+  - "[[10-Nguon-Sach/Ghi-Chep-Lop-Nang-Cao-Am-Duong-Hinh-Khi-2014]]"
 chinese: "十神"
 created: 2026-04-21
 ---
@@ -48,7 +49,7 @@ Lấy **Nhật Can** (Thiên Can ngày sinh = bản thân) làm trung tâm:
 |---------------------|--------------------------------------------|--------------------------------------------|
 | **Cùng hành** | Tỷ Kiên (比肩) | Kiếp Tài (劫財) |
 | **Nhật Can sinh ra** | Thực Thần (食神) | Thương Quan (傷官) |
-| **Nhật Can bị sinh** | Thiên Ấn (偏印) = Kiêu Thần | Chính Ấn (正印) |
+| **Nhật Can bị sinh** | Thiên Ấn (偏印) *hoặc* Kiêu Thần (枭神) | Chính Ấn (正印) |
 | **Nhật Can khắc** | Thiên Tài (偏財) | Chính Tài (正財) |
 | **Nhật Can bị khắc** | Thất Sát (七殺) = Thiên Quan | Chính Quan (正官) |
 
@@ -95,10 +96,17 @@ Lấy **Nhật Can** (Thiên Can ngày sinh = bản thân) làm trung tâm:
 - **Xã hội**: danh vị, địa vị, trật tự
 - **Âm Dương**: Tứ Cát Thần — biểu tượng danh quý
 
-#### 9. Thiên Ấn / Kiêu Thần (偏印) — đồng tính sinh Nhật Can
-- **Hình tượng**: cha mẹ đặc biệt, người dạy phi chính thống
-- **Xã hội**: học thuật thần bí, kỹ năng đặc thù
-- **Lưu ý**: Tứ Hung Thần — Kiêu thần phá Thực Thần
+#### 9. Thiên Ấn (偏印) / Kiêu Thần (枭神) — đồng tính sinh Nhật Can
+
+> [!important] Thám Tác Môn phân biệt rõ hai trường hợp
+> - **Thiên Ấn** = cát thần — mẹ đỡ đầu, thầy nghề, tài năng đặc biệt, sáng tạo
+> - **Kiêu Thần** = hung thần (Tứ Hung thứ 3) — khi Thiên Ấn thỏa ≥ 1 trong 4 điều kiện: (1) đoạt Thực Thần, (2) quá vượng, (3) nhập Cách, (4) hóa Sát thành hung
+>
+> Xem chi tiết: [[02-Thap-Than/Kieu-Than-vs-Thien-An]]
+
+- **Hình tượng Thiên Ấn (cát)**: mẹ đỡ đầu, thầy nghề, kỹ năng đặc thù, tài năng nghệ thuật
+- **Hình tượng Kiêu Thần (hung)**: mẹ kế kiểm soát, sư phụ thao túng, phụ thuộc mất chủ động
+- **Lưu ý**: Không được đồng nhất Thiên Ấn = Kiêu Thần — đây là sai lầm phổ biến
 
 #### 10. Chính Ấn (正印) — dị tính sinh Nhật Can
 - **Hình tượng**: mẹ (nam mệnh), học vấn chính thống
@@ -142,7 +150,36 @@ Lấy **Nhật Can** (Thiên Can ngày sinh = bản thân) làm trung tâm:
 > - **Tên gọi** có thể khác nhau (Kiêu Thần vs Thiên Ấn vs Đảo Thực)
 > - **Thứ tự ưu tiên và tầm quan trọng** khác nhau giữa các phái
 
-### VII. Các Thập Thần tổ hợp quan trọng
+### VII. Thân Nội và Thân Ngoại trong Thập Thần
+
+> [!note] Bổ sung từ No15 (2014)
+> Thám Tác Môn phân chia vai trò của Thập Thần theo **Thân Nội vs Thân Ngoại**:
+> - Thập Thần là công cụ luận **Thân Ngoại Sự** (thuộc tính xã hội: quan lộc, hôn nhân, tiền tài)
+> - **Ngũ Hành** mới là công cụ luận **Thân Nội Sự** (thuộc tính tự nhiên: sức khỏe, tuổi thọ, tư chất)
+>
+> Ví dụ: hỏi người này thông minh không? → dùng Ngũ Hành (Thân Nội), KHÔNG dùng Thương Quan/Thực Thần
+>
+> → [[01-Nen-Tang/Than-Noi-Than-Ngoai]]
+
+### VIII. Tứ Cát Thần — thứ tự ưu tiên (Thám Tác Môn)
+
+| Thứ tự | Cát Thần | Ký hiệu | Đặc điểm |
+|--------|----------|---------|----------|
+| 1 | Quan Tinh | 官星 | Kiểm soát, quy tắc, địa vị |
+| 2 | Ấn Tinh | 印星 | Bảo hộ, học vấn, nâng đỡ |
+| 3 | Tài Tinh | 财星 | Kiếm tiền, tài sản, quan hệ |
+| 4 | Thực Thần | 食神 | Sáng tạo, biểu đạt, nuôi dưỡng |
+
+### IX. Tứ Hung Thần — thứ tự nguy hiểm (Thám Tác Môn)
+
+| Thứ tự | Hung Thần | Ký hiệu | Mức độ |
+|--------|-----------|---------|--------|
+| 1 | Thất Sát | 七杀 | Cao nhất — tấn công trực tiếp |
+| 2 | Thương Quan | 伤官 | Cao — phá Quan, vi phạm |
+| 3 | Kiêu Thần | 枭神 | Trung — đoạt Thực, phá phúc |
+| 4 | Kiếp Tài | 劫财 | Thấp — tranh tài, ganh ghét |
+
+### X. Các Thập Thần tổ hợp quan trọng
 
 | Tổ hợp | Ý nghĩa |
 |--------|---------|
@@ -175,3 +212,6 @@ Lấy **Nhật Can** (Thiên Can ngày sinh = bản thân) làm trung tâm:
 ### Liên quan
 - [[01-Nen-Tang/Hinh-Khi]] — Thập Thần thuộc về Hình pháp
 - [[09-He-Phai/He-Phai-Tong-Quan]] — Các phái dùng Thập Thần khác nhau
+- [[02-Thap-Than/Kieu-Than-vs-Thien-An]] — Phân biệt Kiêu Thần vs Thiên Ấn (4 điều kiện)
+- [[02-Thap-Than/Ban-Tuong-Nguyen-Thuy-Thap-Than]] — Bản tượng gốc của mỗi thần
+- [[01-Nen-Tang/Than-Noi-Than-Ngoai]] — Thập Thần chỉ luận Thân Ngoại Sự

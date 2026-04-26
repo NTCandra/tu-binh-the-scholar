@@ -71,6 +71,19 @@ Hiểu sự khác biệt giữa các phái trước khi đi sâu vào một phá
 
 ---
 
+## Tầng 3b — Khung Phân Loại Thám Tác Môn (Intermediate)
+
+Hiểu các khái niệm phân loại đặc thù của Thám Tác Môn trước khi học pháp nâng cao:
+
+- [ ] [[01-Nen-Tang/Than-Noi-Than-Ngoai]] — Thân Nội Sự vs Thân Ngoại Sự (công cụ nào dùng cho loại câu hỏi nào)
+- [ ] [[01-Nen-Tang/Nhi-Bat-Dinh-Luat]] — Nhị Bát Định Luật thay thế Vượng Suy Cân Bằng Pháp
+- [ ] [[02-Thap-Than/Kieu-Than-vs-Thien-An]] — Phân biệt Kiêu Thần (hung) vs Thiên Ấn (cát)
+- [ ] [[02-Thap-Than/Ban-Tuong-Nguyen-Thuy-Thap-Than]] — Bản tượng nguyên thủy làm nền suy diễn
+
+**Thời gian ước tính:** 2-3 tuần
+
+---
+
 ## Tầng 4 — Thám Tác Môn: Tứ Đại Pháp Tắc (Advanced)
 
 Nền tảng tư duy của Thám Tác Môn:
@@ -88,6 +101,8 @@ Phương pháp Thiên Đạo — luận phú quý bẩm sinh và thọ yểu:
 - [ ] [[06-Thai-Cuc-Phap/Lap-The]] — Lập Thể: tìm khí chủ từ Nguyệt lệnh
 - [ ] [[06-Thai-Cuc-Phap/Thu-Dung]] — Thủ Dụng: tìm Dụng Thần đối trọng
 - [ ] [[04-Dung-Than/PHAI-Tham-Tac-Mon-Dung-Than]] — Dụng Thần theo Thám Tác Môn
+- [ ] [[01-Nen-Tang/Nhi-Bat-Dinh-Luat]] — Nhị Bát Định Luật (tiêu chí cân bằng)
+- [ ] [[01-Nen-Tang/Than-Bao-Ho]] — Thần Bảo Hộ trong chuỗi Ngũ Hành
 
 ---
 
@@ -99,6 +114,7 @@ Phương pháp Địa Đạo — luận tầng lớp xã hội và danh lợi:
 - [ ] [[05-Cach-Cuc/Cach-Cuc-Vuot-Tam-Quan]] — Ba cửa ải: Hộ Vệ, Thanh Thuần, Chân Giả
 - [ ] [[05-Cach-Cuc/PHAI-Tai-Quan-Phap]] — Tài Quan Pháp (Loan Đầu Pháp) bổ trợ
 - [ ] [[05-Cach-Cuc/Cach-Cuc-Tuong-Phap]] — Tượng Pháp: 16 điểm kiến thức
+- [ ] [[06-Thai-Cuc-Phap/Tu-Cham-Tu-Phap]] — Tự Chạm Tự Pháp (Pháp thứ 4, phụ trợ Ngũ Hành)
 
 ---
 
@@ -145,6 +161,7 @@ Thập Thần → Ngũ Hành → Âm Dương
 | Nguồn | Nội dung | Ghi chú |
 |-------|---------|---------|
 | [[10-Nguon-Sach/Thai-Cuc-Am-Duong-Hinh-Khi]] | No20 — Thái Cực Âm Dương Hình Khí | Sách chính, đầy đủ nhất |
+| [[10-Nguon-Sach/Ghi-Chep-Lop-Nang-Cao-Am-Duong-Hinh-Khi-2014]] | No15 — Lớp nâng cao 2014 (P1) | Bản giảng dạy của No20, nhiều ví dụ thực chiến hơn; Tự Chạm Tự Pháp, Kiêu Thần 4 điều kiện, Nhị Bát Định Luật |
 | [[10-Nguon-Sach/Tu-Binh-Cach-Cuc-De-Nhi-Ban]] | No6 — Cách Cục Đệ Nhị Bản | Chuyên sâu Cách Cục Pháp + Tài Quan Pháp |
 | [[10-Nguon-Sach/Ghi-Chep-Lop-Menh-Ly-2013]] | No13 — Ghi chép lớp mệnh lý cao cấp 2013 | Ngũ Hành Chủ Đạo, Thập Can, 5 hệ phái lịch sử, ví dụ thực chiến |
 

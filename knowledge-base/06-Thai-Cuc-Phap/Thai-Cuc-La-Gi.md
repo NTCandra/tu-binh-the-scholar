@@ -15,6 +15,7 @@ related:
   - "[[01-Nen-Tang/Am-Duong]]"
 sources:
   - "[[10-Nguon-Sach/Thai-Cuc-Am-Duong-Hinh-Khi]]"
+  - "[[10-Nguon-Sach/Ghi-Chep-Lop-Nang-Cao-Am-Duong-Hinh-Khi-2014]]"
 chinese: "太极"
 created: 2026-04-21
 ---
@@ -107,6 +108,36 @@ Bát tự: Mậu Tuất / Mậu Ngọ / Ất Mão / Canh Thìn
 - Tháng Ngọ Hỏa (Dương) cực vượng, Thổ vượng tiếp tục
 - Thủy (Âm) hoàn toàn không xuất hiện
 - Âm quá yếu, Dương chiếm hoàn toàn → Thái Cực phá → ung thư phổi
+
+### VII. Đại Thái Cực và Tiểu Thái Cực
+
+> [!note] Bổ sung từ No15 — Chương 14 (Thái Cực Kỹ Pháp)
+
+Vương Khánh phân chia Thái Cực thành hai cấp độ:
+
+| | **Đại Thái Cực (大太极)** | **Tiểu Thái Cực (小太极)** |
+|-|--------------------------|---------------------------|
+| **Phạm vi** | Toàn bộ bát tự | Cục bộ một khía cạnh |
+| **Luận về** | Thọ yểu, sinh tử, đại cục | Hôn nhân, tài lộc, sức khỏe từng phần |
+| **Thái Cực điểm** | Mộc-Hỏa (Thân Nội); Thiên Địa Chủ Khí (Thân Ngoại) | Thái Cực của từng cung/thần cụ thể |
+| **Khi phá** | Tử vong, bệnh hiểm nghèo, đại biến | Ly hôn, thất bại sự nghiệp, tai nạn cục bộ |
+
+**Đại Thái Cực — Thái Cực điểm Thân Nội:**
+- Mộc-Hỏa là "Thái Cực điểm" cho sức sống và tuổi thọ
+- Mộc đại diện sức sống (phục hồi, tăng trưởng)
+- Hỏa đại diện nhiệt huyết (ý chí, tư duy)
+- Khi cả hai đủ → người sống khỏe, tư duy minh mẫn
+- Khi một trong hai bị triệt → tín hiệu cảnh báo sức khỏe/tuổi thọ
+
+**Đại Thái Cực — Thái Cực điểm Thân Ngoại:**
+- Thiên Địa Chủ Khí (Cách Cục) là Thái Cực điểm
+- Khi Cách Cục thành → đại cục xã hội tốt
+- Khi Cách Cục phá → mệnh xã hội khó thành
+
+**Tiểu Thái Cực — ứng dụng:**
+- Xem Thái Cực hôn nhân (Tài tinh + Chính Quan/Phu cung có hòa không)
+- Xem Thái Cực con cái (Thực/Thương + Tử cung)
+- Xem Thái Cực từng năm trong đại vận (năm nào Tiểu Thái Cực phá → năm xấu)
 
 ## Tư duy học Thái Cực Pháp
 
