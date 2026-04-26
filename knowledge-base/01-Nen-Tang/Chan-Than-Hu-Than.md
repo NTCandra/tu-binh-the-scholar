@@ -18,6 +18,7 @@ related:
 sources:
   - "[[10-Nguon-Sach/Thai-Cuc-Am-Duong-Hinh-Khi]]"
   - "[[10-Nguon-Sach/Tu-Binh-Cach-Cuc-De-Nhi-Ban]]"
+  - "[[10-Nguon-Sach/Ghi-Chep-Lop-Nang-Cao-Am-Duong-Hinh-Khi-2014]]"
 chinese: "真神 / 虚神"
 created: 2026-04-21
 ---
@@ -147,6 +148,23 @@ Chân Thần vẫn có thể trở thành Hư Thần nếu:
 - Dựa vào **chất lượng** (có căn hay không)
 - **Thà ít mà thật, không nên nhiều mà hư**
 
+### X. Mở rộng: Chân Giả vs Vượng Suy — Hai chiều độc lập
+
+> [!note] Bổ sung từ No15 P2
+> Chân Thần/Hư Thần trong Cách Cục (có Nguyệt Lệnh + thấu Can) là một chiều.  
+> **Chân Giả** (có Chính Căn hay không) là chiều thứ hai, độc lập:
+
+- **Chân Giả** = thực lực hậu thiên → nhìn vào **thông căn Chính Căn** → "cát hung có thật hay chỉ là biểu tượng"
+- **Vượng Suy** = tố chất tiên thiên → nhìn vào **Nguyệt Lệnh/Tứ Thời** → "cát hung lớn hay nhỏ"
+- **Chân Thần** (trong Cách Cục) = thần có gốc Nguyệt Lệnh thấu Can → "có đủ tư cách lập Cách Cục"
+
+Ba khái niệm này **không thay thế nhau**:
+- Chân Thần (Cách Cục) + Chân (Chính Căn) + Vượng → tốt nhất
+- Chân Thần + Chân + Nhược → lập được cách, thật, nhưng nhỏ
+- Chân Thần + Giả (Thiên Căn) + Vượng → cách lập được, bề ngoài vượng, nhưng thực chất bấp bênh
+
+→ Xem chi tiết: [[01-Nen-Tang/Chinh-Can-va-Chan-Gia]]
+
 ## Quan điểm các hệ phái
 
 > [!note] 🏛️ Phái Cổ Điển
@@ -170,3 +188,5 @@ Chân Thần vẫn có thể trở thành Hư Thần nếu:
 ### Liên quan
 - [[02-Thap-Than/Thap-Than-Tong-Quan]] — Thập Thần phân Chân Hư
 - [[07-Dai-Van-Luu-Nien/Dai-Van-Tong-Quan]] — Đại Vận có thể biến Hư thành Chân
+- [[01-Nen-Tang/Chinh-Can-va-Chan-Gia]] — Chính Căn vs Thiên Căn + Chân Giả vs Vượng Suy
+- [[01-Nen-Tang/Chuyen-Loc]] — Chuyên Lộc: loại Chính Căn đặc thù

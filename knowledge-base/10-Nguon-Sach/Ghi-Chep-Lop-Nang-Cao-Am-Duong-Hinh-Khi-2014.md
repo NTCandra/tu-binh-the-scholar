@@ -1,5 +1,5 @@
 ---
-title: "Ghi Chép Lớp Nâng Cao Âm Dương Hình Khí 2014 (P1)"
+title: "Ghi Chép Lớp Nâng Cao Âm Dương Hình Khí 2014 (P1+P2)"
 aliases: ["No15", "Lớp Nâng Cao 2014", "Advanced Yin-Yang Xing-Qi 2014"]
 tags: [tu-binh, nguon-sach, tham-tac-mon, vuong-khanh, giai-doan-truong-thanh]
 level: advanced
@@ -20,8 +20,8 @@ created: 2026-04-26
 | **Chủ giảng** | Vương Khánh (王庆) |
 | **Chỉnh lý** | Hồ Tuấn Dương (胡俊旸) |
 | **Năm** | 2014 |
-| **Phần** | P1 (2267 dòng) |
-| **Tên file** | `No15_Ghi chép lớp nâng cao Âm Dương Hình Khí 2014_P1.md` |
+| **Phần** | P1 (2267 dòng) + P2 (342 dòng) |
+| **Tên file** | `No15_Ghi chép lớp nâng cao Âm Dương Hình Khí 2014_P1.md` + `_P2.md` |
 | **Giai đoạn** | Trưởng thành (cùng giai đoạn No20, No13) |
 | **Ngôn ngữ gốc** | Tiếng Trung, đã dịch sang tiếng Việt |
 
@@ -59,6 +59,38 @@ Hệ thống được gọi là **Âm Dương Bí Pháp (阴阳秘法)**, đặt
 | 16 | 325–330 | Ứng dụng nâng cao — tổng hợp |
 | 17 | 331–349 | Ví dụ thực chiến tổng hợp |
 | Hậu ký | 349+ | Kết luận |
+
+## Nội dung P2 (trang P101–P115)
+
+P2 tiếp nối P1 với các chủ đề nâng cao về vượng suy, căn khí, và nền tảng luận mệnh:
+
+| Trang | Nội dung |
+|-------|----------|
+| P101–P104 | Ấn vượng ≠ Thân vượng (14 ví dụ); Sinh khắc hữu tình vs vô tình — Thủy-Mộc là Lão Âm kiểm Thiếu Dương |
+| P104–P107 | Chuyên Lộc (专禄) — 4 cặp can-chi private root; địa bàn là gốc thực lực, Ấn Tỷ chỉ hỗ trợ |
+| P107–P109 | Thông Căn — Chính Căn vs Thiên Căn; Thiên Can hư thực; ứng dụng vị trí địa lý làm việc |
+| P109–P110 | Chân Giả vs Vượng Suy — hai chiều độc lập: Chân Giả định tính, Vượng Suy định lượng |
+| P110–P111 | Tứ Thời vs Mười Hai Cung — Tứ Thời luận Ngũ Hành khí; Mười Hai Cung luận Thiên Can hình+khí |
+| P112–P114 | So sánh Cách cục pháp vs Vượng suy cân bằng pháp (ví dụ 8-9); Tiên Thiên tố chất quyết định cấp độ phú quý |
+| P115 | Hư phù Thiên Can có thể thụ sinh — 2 điều kiện; trình tự phán đoán vượng suy |
+
+### Đóng góp đặc biệt của P2
+
+**1. Chuyên Lộc (专禄)** — khái niệm không có trong P1 và No20:
+- 4 cặp: Giáp-Dần, Ất-Mão, Canh-Thân, Tân-Dậu
+- "Private root" không thể cho mượn → chỉ bản thân Nhật Can mới hưởng
+- Thổ không có Chuyên Lộc; Thủy/Hỏa có kiếp tài căn (không phải Chuyên Lộc)
+- Xem [[01-Nen-Tang/Chuyen-Loc]]
+
+**2. Chính Căn vs Thiên Căn + Chân Giả vs Vượng Suy framework:**
+- Chính Căn = địa bàn thực sự; Thiên Căn = rễ lệch, lực nhỏ
+- Chân Giả ≠ Vượng Suy — hai chiều độc lập
+- Xem [[01-Nen-Tang/Chinh-Can-va-Chan-Gia]]
+
+**3. Sinh Khắc Hữu Tình vs Vô Tình:**
+- Không phải mọi tương sinh đều gia tăng lực lượng
+- Thủy-Mộc = Lão Âm kiểm Thiếu Dương, không phải Thủy sinh Mộc thật sự
+- Xem [[01-Nen-Tang/Sinh-Khac-Che-Hoa]]
 
 ## Đóng góp độc đáo của No15
 
@@ -107,7 +139,11 @@ Xem [[02-Thap-Than/Ban-Tuong-Nguyen-Thuy-Thap-Than]].
 
 ## Liên kết
 
-### Files tạo mới từ No15
+### Files tạo mới từ No15 P2
+- [[01-Nen-Tang/Chuyen-Loc]] — Chuyên Lộc (专禄)
+- [[01-Nen-Tang/Chinh-Can-va-Chan-Gia]] — Chính Căn vs Thiên Căn + Chân Giả vs Vượng Suy
+
+### Files tạo mới từ No15 P1
 - [[01-Nen-Tang/Than-Noi-Than-Ngoai]] — Thân Nội Sự vs Thân Ngoại Sự
 - [[01-Nen-Tang/Nhi-Bat-Dinh-Luat]] — Nhị Bát Định Luật (二八定律)
 - [[01-Nen-Tang/Than-Bao-Ho]] — Thần Bảo Hộ (保护神)
