@@ -165,6 +165,65 @@ Ba khái niệm này **không thay thế nhau**:
 
 → Xem chi tiết: [[01-Nen-Tang/Chinh-Can-va-Chan-Gia]]
 
+### XI. Chân Thần Chiếu Ứng vs Chân Thần Đắc Dụng
+
+> [!note] Bổ sung từ No15 P3 — Chương 11
+> Chân Thần không chỉ có hai trạng thái (thành/không thành). Có một trạng thái trung gian quan trọng: **Chiếu Ứng**.
+
+**Chân Thần Đắc Dụng (真神得用):**
+- Chân Thần **hoàn toàn kiểm soát** được Kị Thần
+- Cách Cục thành, phú quý đầy đủ
+- Người có quyền lực hoặc tài sản thực sự lớn
+
+**Chân Thần Chiếu Ứng (真神照應):**
+- Chân Thần **không hoàn toàn kiểm soát** được Kị Thần — chỉ một phần
+- Cách Cục chưa thành trọn vẹn nhưng vẫn có ảnh hưởng
+- Người hưởng lợi gián tiếp từ Chính Phủ/Thần Phật
+
+**Bốn biểu hiện của Chiếu Ứng:**
+
+| Biểu hiện | Mô tả |
+|-----------|-------|
+| **Có đơn vị chính phủ** | Làm việc trong cơ quan nhà nước nhưng không có quyền lực lớn |
+| **Kinh doanh liên quan chính phủ** | Thầu chính phủ, doanh nghiệp nhà nước, hưởng lợi từ quan hệ chính phủ |
+| **Chính phủ giúp đỡ** | Nhận được sự hỗ trợ, ưu đãi từ nhà nước |
+| **Người thân quan chức** | Anh/chị/em/cha/mẹ/vợ/chồng là cán bộ |
+
+> [!important] Chân Thần = năng lượng cao nhất trong bát tự
+> Chân Thần đại diện cho **Thần Phật / Chính Phủ** — năng lượng và quyền lực cao nhất của xã hội và vũ trụ. Khi Chân Thần chiếu ứng, người được nhận "ánh sáng" từ nguồn năng lượng cao này dù không phải trực tiếp.
+
+### XII. Tòng Cách và Chân Thần
+
+**Tòng Cách (從格) — Nhật Chủ vô căn:**
+
+> [!warning] Quy tắc Tòng Cách của Thám Tác Môn
+> Ngay cả khi Nhật Chủ vô căn (điều kiện cần cho Tòng), phải **luôn kiểm tra Thiên Địa Chủ Khí trước** — không được kết luận Tòng vội.
+
+**Điều kiện Tòng Chân Chính:**
+1. Nhật Chủ hoàn toàn vô căn (không có bất kỳ thông căn nào)
+2. Chỉ có **MỘT** năng lượng thuần nhất chiếm ưu thế tuyệt đối trong toàn bát tự
+3. Thiên Địa Chủ Khí đều thuộc về năng lượng đó
+
+> Tòng cách giả (không phải tòng chân chính) là nguy hiểm — người dễ bị nhầm và luận sai.
+
+### XIII. Hư Thần vs Thực Thần — Hai Chiều Không Gian Khác Nhau
+
+> [!note] Bổ sung từ No15 P3 — Chương 11
+> Chân/Hư Thần và Thực Thần (Ngũ Hành có thực chất) tồn tại ở **hai chiều không gian khác nhau**.
+
+**Nguyên lý:**
+- **Chân Thần / Hư Thần** = thuộc chiều không gian khí số (lý khí)
+- **Thực Thần** (ngũ hành có thực chất vật lý) = thuộc chiều không gian vật chất
+
+> Chân/Hư Thần **KHÔNG thể hoàn toàn thắng** Thực Thần — vì chúng ở hai chiều khác nhau.
+
+**Phép so sánh (Thám Tác Môn):**
+> Như tiên nhân và người thường — dù tiên có phép thuật cao siêu, không thể dùng phép thuật để thắng hoàn toàn một người bình thường trong thế giới vật chất của họ. Hai bên hoạt động theo quy luật khác nhau.
+
+**Ứng dụng:**
+- Khi Hư Thần và Thực Thần xung đột → không thể đơn giản so sánh ai mạnh hơn
+- Phải phân tích theo chiều không gian riêng của mỗi loại
+
 ## Quan điểm các hệ phái
 
 > [!note] 🏛️ Phái Cổ Điển
@@ -187,6 +246,7 @@ Ba khái niệm này **không thay thế nhau**:
 
 ### Liên quan
 - [[02-Thap-Than/Thap-Than-Tong-Quan]] — Thập Thần phân Chân Hư
-- [[07-Dai-Van-Luu-Nien/Dai-Van-Tong-Quan]] — Đại Vận có thể biến Hư thành Chân
+- [[07-Dai-Van-Luu-Nien/Tue-Van-Tong-Quan]] — Đại Vận có thể biến Hư thành Chân
 - [[01-Nen-Tang/Chinh-Can-va-Chan-Gia]] — Chính Căn vs Thiên Căn + Chân Giả vs Vượng Suy
 - [[01-Nen-Tang/Chuyen-Loc]] — Chuyên Lộc: loại Chính Căn đặc thù
+- [[05-Cach-Cuc/Cach-Cuc-Tinh-Vi]] — Minh/Ám cục liên quan đến Chân Thần vị trí

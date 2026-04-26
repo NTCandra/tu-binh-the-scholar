@@ -1,5 +1,5 @@
 ---
-title: "Ghi Chép Lớp Nâng Cao Âm Dương Hình Khí 2014 (P1+P2)"
+title: "Ghi Chép Lớp Nâng Cao Âm Dương Hình Khí 2014 (P1–P4)"
 aliases: ["No15", "Lớp Nâng Cao 2014", "Advanced Yin-Yang Xing-Qi 2014"]
 tags: [tu-binh, nguon-sach, tham-tac-mon, vuong-khanh, giai-doan-truong-thanh]
 level: advanced
@@ -7,7 +7,7 @@ school: tham-tac-mon
 created: 2026-04-26
 ---
 
-# Ghi Chép Lớp Nâng Cao Âm Dương Hình Khí 2014 (P1)
+# Ghi Chép Lớp Nâng Cao Âm Dương Hình Khí 2014 (P1–P4)
 
 > [!summary]
 > Bản ghi chép lớp học nâng cao năm 2014 do Vương Khánh chủ giảng — trình bày toàn diện hệ thống Âm Dương Bí Pháp ở giai đoạn trưởng thành, bổ sung nhiều chi tiết và ví dụ thực chiến hơn so với sách in No20.
@@ -20,8 +20,8 @@ created: 2026-04-26
 | **Chủ giảng** | Vương Khánh (王庆) |
 | **Chỉnh lý** | Hồ Tuấn Dương (胡俊旸) |
 | **Năm** | 2014 |
-| **Phần** | P1 (2267 dòng) + P2 (342 dòng) |
-| **Tên file** | `No15_Ghi chép lớp nâng cao Âm Dương Hình Khí 2014_P1.md` + `_P2.md` |
+| **Phần** | P1 (2267 dòng) + P2 (342 dòng) + P3 (2149 dòng) + P4 (981 dòng) |
+| **Tên file** | `No15_..._P1.md`, `_P2.md`, `_P3.md`, `_P4.md` |
 | **Giai đoạn** | Trưởng thành (cùng giai đoạn No20, No13) |
 | **Ngôn ngữ gốc** | Tiếng Trung, đã dịch sang tiếng Việt |
 
@@ -137,6 +137,27 @@ Xem [[02-Thap-Than/Ban-Tuong-Nguyen-Thuy-Thap-Than]].
 > [!note] Giai đoạn No15 = No20
 > No15 là bản giảng dạy (2014) của cùng hệ thống với No20. Không có mâu thuẫn nội tại với No20 — chỉ có bổ sung chi tiết và ví dụ.
 
+## Nội dung P3 (trang P186–P301)
+
+P3 trình bày các chương nâng cao về Cách Cục Pháp (chương 10-12):
+
+| Chương | Trang | Nội dung |
+|--------|-------|----------|
+| 10 | P186–P260 | **Cách Cục Tinh Vi** — 4 loại hỗn tạp, minh/ám cục, vượng giả động nhược giả bán, chế hóa lưỡng lập, cách cục giá, ảnh hưởng chữ thứ ba, Ấn cách đặc thù |
+| 11 | P261–P275 | **Chi tiết Chân Thần** — Chiếu Ứng vs Đắc Dụng, Tòng Cách, Hư Thần vs Thực Thần (hai chiều không gian) |
+| 12 | P276–P301 | **Lý Thuyết Đồng Gia** — Tiên/Hậu Thiên đồng gia, Thiên Can đồng gia (Dần/Sửu), Đồng Trụ, Cung Vị, Thập Thần đồng gia, Tượng Pháp ứng dụng |
+
+## Nội dung P4 (trang P302–P353)
+
+P4 trình bày các chương nâng cao về Thể Dụng Thần, Tuế Vận, Nghề Nghiệp, và triết học Âm Dương:
+
+| Chương | Trang | Nội dung |
+|--------|-------|----------|
+| 13 | P302–P309 | **Thể Dụng Thần** — Dụng Thần sức khỏe Nhật Chủ, khác Cách Cục Dụng Thần; ví dụ Lương Khải Siêu |
+| 14 | P310–P328 | **Tuế Vận** — Nguyên Cục Định Tính, Đăng Đài Lộ Diện, Phùng Vượng Thì Động, tu sửa cách cục; hai quy tắc đặc biệt về Kị Thần |
+| 15 | P329–P335 | **Công Việc & Nghề Nghiệp** — 5 yếu tố: Nhật Can, Nhật Chi, Nguyệt Lệnh, Dụng Thần, Vượng Nhược |
+| 16-17 | P336–P353 | **Âm Dương & Xã Hội** — Cơ Sở (Âm) vs Công Năng (Dương), chiều cao, vóc dáng, đào hoa, sức khỏe; Hậu Ký tóm tắt toàn bộ hệ thống |
+
 ## Liên kết
 
 ### Files tạo mới từ No15 P2
@@ -151,11 +172,19 @@ Xem [[02-Thap-Than/Ban-Tuong-Nguyen-Thuy-Thap-Than]].
 - [[02-Thap-Than/Ban-Tuong-Nguyen-Thuy-Thap-Than]] — Bản Tượng Nguyên Thủy Thập Thần
 - [[06-Thai-Cuc-Phap/Tu-Cham-Tu-Phap]] — Tự Chạm Tự Pháp
 
+### Files tạo mới từ No15 P3–P4
+- [[05-Cach-Cuc/Cach-Cuc-Tinh-Vi]] — Cách Cục Tinh Vi (Chương 10)
+- [[01-Nen-Tang/Dong-Gia-Ly-Luan]] — Lý Thuyết Đồng Gia (Chương 12)
+- [[06-Thai-Cuc-Phap/The-Dung-Than]] — Thể Dụng Thần (Chương 13)
+- [[07-Dai-Van-Luu-Nien/Tue-Van-Tong-Quan]] — Tuế Vận Tổng Quan (Chương 14)
+- [[06-Thai-Cuc-Phap/Am-Duong-Xa-Hoi]] — Âm Dương Xã Hội (Chương 16-17)
+
 ### Files enrich từ No15
 - [[01-Nen-Tang/Am-Duong]] — bổ sung 3 vật tải, Thể-Dụng-Âm-Dương
 - [[01-Nen-Tang/Hinh-Khi]] — bổ sung Hình=Âm=nền tảng, Khí=Dương=chức năng
+- [[01-Nen-Tang/Chan-Than-Hu-Than]] — bổ sung Chiếu Ứng, Tòng Cách, Hư/Thực Thần hai chiều (Chương 11)
 - [[02-Thap-Than/Thap-Than-Tong-Quan]] — bổ sung Tứ Cát/Hung, bản tính
-- [[05-Cach-Cuc/Cach-Cuc-Tong-Quan]] — bổ sung Thiên Địa Chủ Khí là Thái Cực điểm
+- [[05-Cach-Cuc/Cach-Cuc-Tong-Quan]] — bổ sung Ấn cách đặc thù, liên kết Cách Cục Tinh Vi
 - [[06-Thai-Cuc-Phap/Thai-Cuc-La-Gi]] — bổ sung Đại/Tiểu Thái Cực
 - [[09-He-Phai/Tham-Tac-Mon]] — bổ sung No15 vào nguồn sách
 - [[00-Tong-Quan/Lo-Trinh-Hoc]] — bổ sung No15 vào lộ trình

@@ -141,6 +141,20 @@ Bát tự: Đinh Tị / Kỷ Dậu / Tân Vị / Ất Mùi
 - **Cách Cục Pháp**: Tân Kim là Tư Lệnh tháng Dậu; Đinh Hỏa = Quan (Nhật Can Tân Kim bị Đinh Hỏa khắc = Thất Sát, có chế thành Chính Quan); lập Cách Chính Quan
 - **Kết luận**: Cán bộ chính phủ, có danh vị, phú quý
 
+### VIII. Ấn Cách — Cách Duy Nhất Cần Kiểm Tra Nhật Chủ Vượng Suy
+
+> [!important] Quy tắc đặc thù của Ấn Cách Cục
+> Trong tất cả các cách cục, **chỉ có Ấn Cách** bắt buộc phải kiểm tra trạng thái vượng/suy của Nhật Chủ. Các cách khác không cần bước này.
+
+**Lý do:** Ấn tinh trực tiếp sinh Nhật Chủ → sức mạnh của Ấn ảnh hưởng trực tiếp đến Nhật Chủ. Hai dạng Ấn cách:
+
+| Dụng Thần Ấn Cách | Điều kiện | Kết quả |
+|------------------|-----------|---------|
+| **Ấn dùng Tỷ Kiên** | Nhật Chủ thân vượng (Ấn đã sinh đủ) | Thành tựu học thuật, danh tiếng trong giới hẹp; KHÔNG giàu lớn, KHÔNG quyền lực lớn |
+| **Ấn dùng Kiếp Tài** | Cần tiếp cận thế giới bên ngoài | Có thể phát tài; một chân bước vào thế giới vật chất |
+
+> Xem chi tiết: [[05-Cach-Cuc/Cach-Cuc-Tinh-Vi]]
+
 ## Quan điểm các hệ phái
 > [!example] 🔬 Thám Tác Môn
 > Cách Cục Pháp theo Thám Tác Môn nhấn mạnh: cốt lõi vẫn là Âm Dương, không phải sinh khắc Thập Thần đơn thuần. Chân Thần có đủ lực (Thiên mệnh tốt) mới có cách cục tầng lớp cao.
@@ -159,7 +173,9 @@ Bát tự: Đinh Tị / Kỷ Dậu / Tân Vị / Ất Mùi
 
 ### Dẫn đến
 - [[05-Cach-Cuc/Cach-Cuc-Vuot-Tam-Quan]] — Ba cửa ải để cách thành
+- [[05-Cach-Cuc/Cach-Cuc-Tinh-Vi]] — Quy tắc tinh vi nâng cao (minh/ám cục, hỗn tạp, Ấn cách đặc thù)
 - [[04-Dung-Than/PHAI-Tham-Tac-Mon-Dung-Than]] — Dụng Thần theo Thám Tác Môn
+- [[07-Dai-Van-Luu-Nien/Tue-Van-Tong-Quan]] — Tuế Vận tu sửa và kích hoạt cách cục
 
 ### Liên quan
 - [[06-Thai-Cuc-Phap/Thai-Cuc-La-Gi]] — Thái Cực Pháp song hành với Cách Cục
