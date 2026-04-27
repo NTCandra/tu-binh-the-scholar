@@ -18,6 +18,7 @@ related:
 sources:
   - "[[10-Nguon-Sach/Thai-Cuc-Am-Duong-Hinh-Khi]]"
   - "[[10-Nguon-Sach/Tu-Binh-Cach-Cuc-De-Nhi-Ban]]"
+  - "[[10-Nguon-Sach/Ghi-Chep-Lop-Nang-Cao-Am-Duong-Hinh-Khi-2014]]"
 chinese: "真神 / 虚神"
 created: 2026-04-21
 ---
@@ -147,6 +148,82 @@ Chân Thần vẫn có thể trở thành Hư Thần nếu:
 - Dựa vào **chất lượng** (có căn hay không)
 - **Thà ít mà thật, không nên nhiều mà hư**
 
+### X. Mở rộng: Chân Giả vs Vượng Suy — Hai chiều độc lập
+
+> [!note] Bổ sung từ No15 P2
+> Chân Thần/Hư Thần trong Cách Cục (có Nguyệt Lệnh + thấu Can) là một chiều.  
+> **Chân Giả** (có Chính Căn hay không) là chiều thứ hai, độc lập:
+
+- **Chân Giả** = thực lực hậu thiên → nhìn vào **thông căn Chính Căn** → "cát hung có thật hay chỉ là biểu tượng"
+- **Vượng Suy** = tố chất tiên thiên → nhìn vào **Nguyệt Lệnh/Tứ Thời** → "cát hung lớn hay nhỏ"
+- **Chân Thần** (trong Cách Cục) = thần có gốc Nguyệt Lệnh thấu Can → "có đủ tư cách lập Cách Cục"
+
+Ba khái niệm này **không thay thế nhau**:
+- Chân Thần (Cách Cục) + Chân (Chính Căn) + Vượng → tốt nhất
+- Chân Thần + Chân + Nhược → lập được cách, thật, nhưng nhỏ
+- Chân Thần + Giả (Thiên Căn) + Vượng → cách lập được, bề ngoài vượng, nhưng thực chất bấp bênh
+
+→ Xem chi tiết: [[01-Nen-Tang/Chinh-Can-va-Chan-Gia]]
+
+### XI. Chân Thần Chiếu Ứng vs Chân Thần Đắc Dụng
+
+> [!note] Bổ sung từ No15 P3 — Chương 11
+> Chân Thần không chỉ có hai trạng thái (thành/không thành). Có một trạng thái trung gian quan trọng: **Chiếu Ứng**.
+
+**Chân Thần Đắc Dụng (真神得用):**
+- Chân Thần **hoàn toàn kiểm soát** được Kị Thần
+- Cách Cục thành, phú quý đầy đủ
+- Người có quyền lực hoặc tài sản thực sự lớn
+
+**Chân Thần Chiếu Ứng (真神照應):**
+- Chân Thần **không hoàn toàn kiểm soát** được Kị Thần — chỉ một phần
+- Cách Cục chưa thành trọn vẹn nhưng vẫn có ảnh hưởng
+- Người hưởng lợi gián tiếp từ Chính Phủ/Thần Phật
+
+**Bốn biểu hiện của Chiếu Ứng:**
+
+| Biểu hiện | Mô tả |
+|-----------|-------|
+| **Có đơn vị chính phủ** | Làm việc trong cơ quan nhà nước nhưng không có quyền lực lớn |
+| **Kinh doanh liên quan chính phủ** | Thầu chính phủ, doanh nghiệp nhà nước, hưởng lợi từ quan hệ chính phủ |
+| **Chính phủ giúp đỡ** | Nhận được sự hỗ trợ, ưu đãi từ nhà nước |
+| **Người thân quan chức** | Anh/chị/em/cha/mẹ/vợ/chồng là cán bộ |
+
+> [!important] Chân Thần = năng lượng cao nhất trong bát tự
+> Chân Thần đại diện cho **Thần Phật / Chính Phủ** — năng lượng và quyền lực cao nhất của xã hội và vũ trụ. Khi Chân Thần chiếu ứng, người được nhận "ánh sáng" từ nguồn năng lượng cao này dù không phải trực tiếp.
+
+### XII. Tòng Cách và Chân Thần
+
+**Tòng Cách (從格) — Nhật Chủ vô căn:**
+
+> [!warning] Quy tắc Tòng Cách của Thám Tác Môn
+> Ngay cả khi Nhật Chủ vô căn (điều kiện cần cho Tòng), phải **luôn kiểm tra Thiên Địa Chủ Khí trước** — không được kết luận Tòng vội.
+
+**Điều kiện Tòng Chân Chính:**
+1. Nhật Chủ hoàn toàn vô căn (không có bất kỳ thông căn nào)
+2. Chỉ có **MỘT** năng lượng thuần nhất chiếm ưu thế tuyệt đối trong toàn bát tự
+3. Thiên Địa Chủ Khí đều thuộc về năng lượng đó
+
+> Tòng cách giả (không phải tòng chân chính) là nguy hiểm — người dễ bị nhầm và luận sai.
+
+### XIII. Hư Thần vs Thực Thần — Hai Chiều Không Gian Khác Nhau
+
+> [!note] Bổ sung từ No15 P3 — Chương 11
+> Chân/Hư Thần và Thực Thần (Ngũ Hành có thực chất) tồn tại ở **hai chiều không gian khác nhau**.
+
+**Nguyên lý:**
+- **Chân Thần / Hư Thần** = thuộc chiều không gian khí số (lý khí)
+- **Thực Thần** (ngũ hành có thực chất vật lý) = thuộc chiều không gian vật chất
+
+> Chân/Hư Thần **KHÔNG thể hoàn toàn thắng** Thực Thần — vì chúng ở hai chiều khác nhau.
+
+**Phép so sánh (Thám Tác Môn):**
+> Như tiên nhân và người thường — dù tiên có phép thuật cao siêu, không thể dùng phép thuật để thắng hoàn toàn một người bình thường trong thế giới vật chất của họ. Hai bên hoạt động theo quy luật khác nhau.
+
+**Ứng dụng:**
+- Khi Hư Thần và Thực Thần xung đột → không thể đơn giản so sánh ai mạnh hơn
+- Phải phân tích theo chiều không gian riêng của mỗi loại
+
 ## Quan điểm các hệ phái
 
 > [!note] 🏛️ Phái Cổ Điển
@@ -169,4 +246,7 @@ Chân Thần vẫn có thể trở thành Hư Thần nếu:
 
 ### Liên quan
 - [[02-Thap-Than/Thap-Than-Tong-Quan]] — Thập Thần phân Chân Hư
-- [[07-Dai-Van-Luu-Nien/Dai-Van-Tong-Quan]] — Đại Vận có thể biến Hư thành Chân
+- [[07-Dai-Van-Luu-Nien/Tue-Van-Tong-Quan]] — Đại Vận có thể biến Hư thành Chân
+- [[01-Nen-Tang/Chinh-Can-va-Chan-Gia]] — Chính Căn vs Thiên Căn + Chân Giả vs Vượng Suy
+- [[01-Nen-Tang/Chuyen-Loc]] — Chuyên Lộc: loại Chính Căn đặc thù
+- [[05-Cach-Cuc/Cach-Cuc-Tinh-Vi]] — Minh/Ám cục liên quan đến Chân Thần vị trí
